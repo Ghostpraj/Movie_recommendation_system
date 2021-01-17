@@ -42,7 +42,10 @@ def movie_name():
 
     print(s)
     print("\n\n")
-
+print('''
+       ScrollWell Bootcamp on Machine Learning using Python
+          Day 3 project: Movie Recommendation system
+                                        -by Prajwal Ghogare''')
 print("                            !!!!Movie predictor 10000!!!!\n\n")
 while x!= "1":
     movie_name()
