@@ -1,2 +1,6 @@
-# Movie_recommendation_system
-Scrollwell day3 pro: Movie_recommendation_system
+Day 3 project: Movie recommendation system
+
+-by Prajwal Ghogare
+
+
+:)
